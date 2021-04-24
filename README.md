@@ -4,7 +4,7 @@
 ##### Blocks vanish on coming in contact with my slingshot
 
 OUTPUT LINK
-https://suwarna-cloud.github.io/Tower-Siege-III/index.html
+https://bhavikcoder1.github.io/Tower2/
 
 
 
